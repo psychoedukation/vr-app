@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.hackathondemovenormalerenderpipeline.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\Michael\\Unity Projects\\Hackathon Demo VE normale Render Pipeline\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Hackathon Demo VE normale Render Pipeline [Testing]"
+        }
+      }
+    }
+  ]
+}
